@@ -1,0 +1,14 @@
+# Системные файлы macOS
+.DS_Store
+
+# Кэш Jupyter Notebook
+.ipynb_checkpoints/
+
+# Кэш Python и виртуальные окружения
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Большие данные (если датасет превышает десятки мегабайт)
+# *.csv
